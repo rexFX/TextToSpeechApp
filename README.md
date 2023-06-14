@@ -11,13 +11,17 @@
 ### Screenshots
 
 - Main Screen:
+
   ![Main](public/main.png)
 
 - Granting Permission:
+
   ![Permission](public/permission.png)
 
 - Speaking (Speech to Text):
+
   ![Speaking](public/speaking.png)
 
 - Listening (Text to Speech) and Dark Mode:
+
   ![listening and using dark mode](public/darkModeListening.png)
